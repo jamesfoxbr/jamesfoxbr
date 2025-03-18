@@ -1,19 +1,22 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
-🎮 **Aspiring Game Developer | Self-Taught Programmer | Passionate Learner**
+🎮 **Aspiring Game Developer | Self-Taught Programmer | Passionate Learner | Digital Artist**
 
 ---
 
 ## 🚀 About Me:
-Hey there! I'm James a digital artist on an exciting journey of self-learning to become a game developer, one line of code at a time. My passion for creating games started with experimenting on **Pico-8** (a super cool fantasy console), where I crafted simple game prototypes. From there, I leveled up to learning **Godot**, which expanded my understanding of game mechanics and design.
+Hi, I'm James, a digital artist from Brazil currently on a self-taught journey to become a game developer.
 
-But that wasn’t enough—I craved a deeper connection to the art of programming! Now, I’m diving into the world of **C++ programming**, where I explore how to build games from scratch without relying on general-purpose game engines. By going straight into the code, I feel like I'm truly mastering the magic behind computers and programming.  
+I've always been fascinated by video games and curious about the programming behind them. It wasn't until adulthood that I decided to commit to learning programming on my own. My journey began with Lua on Pico-8, where I experimented with creating simple prototypes and understanding the fundamentals of game development. Later, I explored the Godot Engine, which provided valuable insights into game mechanics and design.
+
+However, I discovered that working within a general-purpose game engine didn’t align with my interests. I prefer coding games directly, without relying on the extensive panels and tools of game engines. This hands-on approach allows me to gain a deeper understanding of programming and a closer connection to the development process.
 
 ---
 
 ## 💡 Skills & Interests:
 - 🎮 **Game Development**: Pico-8, Godot, and writing code-powered games from scratch.
 - 💻 **Programming**: Learning C++ and discovering new ways to solve challenges.
+- 🎨 **Digital Art & Pixel Art**: Crafting captivating visuals and nostalgic pixel art pieces that bring characters and worlds to life.
 - 🔧 **Creative Problem Solving**: Enjoy tackling coding puzzles and turning ideas into reality.
 
 ---
