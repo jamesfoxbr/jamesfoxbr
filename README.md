@@ -11,19 +11,21 @@ I've always been fascinated by video games and curious about the programming beh
 
 However, I discovered that working within a general-purpose game engine didn’t align with my interests. I prefer coding games directly, without relying on the extensive panels and tools of game engines. This hands-on approach allows me to gain a deeper understanding of programming and a closer connection to the development process.
 
+After working with Godot, I decided to focus on learning C++ to develop games entirely from scratch. This approach allows me to create games without relying on general-purpose game engines, giving me full control over the development process and a deeper understanding of the underlying systems.
+
 ---
 
 ## 💡 Skills & Interests:
-- 🎮 **Game Development**: Pico-8, Godot, and writing code-powered games from scratch.
+- 🎮 **Game Development**:Currently writing code-powered games from scratch.
 - 💻 **Programming**: Learning C++ and discovering new ways to solve challenges.
-- 🎨 **Digital Art & Pixel Art**: Crafting captivating visuals and nostalgic pixel art pieces that bring characters and worlds to life.
+- 🎨 **Digital Art & Pixel Art**: Normal digital art and pixelart in Aseprite.
 - 🔧 **Creative Problem Solving**: Enjoy tackling coding puzzles and turning ideas into reality.
 
 ---
 
 ## 🌱 Currently Learning:
-- 📚 **C++ Programming**: My current focus is on developing games and learning how to create every piece of the puzzle to build games from scratch directly in code because I feel more confortable than using general purpose game engines like Godot, Unity, etc.
-- 🎨 **Graphics Programming in OpenGL**: Diving into the world of rendering and learning how to bring visuals to life from the ground up.
+- 📚 **C++ Programming**: My current focus is on designing and developing games by building every component directly in code. I find this approach more intuitive and enjoyable compared to using general-purpose game engines like Godot or Unity. It allows me to have complete control over the development process and gain a deeper understanding of the underlying programming concepts.
+- 🎨 **Graphics Programming in OpenGL and Shaders**: Exploring the depths of rendering technology and mastering the art of creating visuals from the ground up, I’m focused on building a solid foundation to bring immersive graphics to life through code. This journey is teaching me to understand the intricate processes that transform data into stunning visual experiences.
 - 🧠 **Assembly 6502**: Delving into the art of retro gaming code to learn from the brilliant minds of the past. By studying their techniques, I'm uncovering timeless principles and gaining a deeper appreciation for the foundations of programming.
 
 ---
@@ -36,11 +38,13 @@ However, I discovered that working within a general-purpose game engine didn’t
 - Pico-8
 - Picotron
 - Godot Engine
+- Clip Studio Paint (For digital art)
+- Aseprite (For pixelart)
 
 ---
 
 ## 🎯 Goals:
-- Build and release my very own game projects that showcase my journey and growth.
+- Build and release my very own game projects.
 - Develop a deeper understanding of programming concepts through hands-on coding.
 - Share my projects and connect with other passionate developers in the gaming community.
 
@@ -48,7 +52,7 @@ However, I discovered that working within a general-purpose game engine didn’t
 
 ## ✨ Fun Facts:
 - 🚀 I love learning by doing and experimenting with code—it's where the magic happens!
-- 🕹️ I'm fascinated by the old-school charm of Pico-8 real retro gaming consoles and how it challenges creativity within constraints.
+- 🕹️ I'm fascinated by the old-school charm retro gaming consoles I playind when was a kid and how it challenges creativity within constraints.
 
 ---
 
@@ -62,17 +66,3 @@ However, I discovered that working within a general-purpose game engine didn’t
 👾 Thanks for stopping by and exploring my journey into game development! Let’s create something awesome together!
 
 
-<!--
-**jamesfoxbr/jamesfoxbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
