@@ -21,7 +21,7 @@ But that wasn’t enough—I craved a deeper connection to the art of programmin
 ## 🌱 Currently Learning:
 - 📚 **C++ Programming**: My current focus is on developing games and learning how to create every piece of the puzzle directly in code.
 - 🎨 **Graphics Programming in OpenGL**: Diving into the world of rendering and learning how to bring visuals to life from the ground up.
-- - 🧠 **Assembly 6502**: Delving into the art of retro gaming code to learn from the brilliant minds of the past. By studying their techniques, I'm uncovering timeless principles and gaining a deeper appreciation for the foundations of programming.
+- 🧠 **Assembly 6502**: Delving into the art of retro gaming code to learn from the brilliant minds of the past. By studying their techniques, I'm uncovering timeless principles and gaining a deeper appreciation for the foundations of programming.
 
 ---
 
