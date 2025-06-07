@@ -23,6 +23,13 @@ After working with Godot, I decided to focus on learning C++ to develop games. T
 ---
 
 ## 🛠️ Tools & Tech:
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,discord" />
+</p>
+
+<hr>
 - Visual Studio 2022
 - Visual Studio Code
 - C/C++ 
