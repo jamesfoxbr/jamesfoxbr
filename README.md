@@ -26,7 +26,7 @@ After working with Godot, I decided to focus on learning C++ to develop games. T
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,lua,visualstudio,vscode,html,discord" />
+  <img src="https://skillicons.dev/icons?i=cpp,lua,visualstudio,vscode,html" />
 </p>
 
 - Visual Studio 2022
