@@ -1,5 +1,7 @@
 **Digital Art & Pixel Art**: I make normal sized digital art in ClipStudio Paint and pixelart in Aseprite.
 
+**Game Dev**:I like to make game prototype while learning code using several different game engines, frameworks and libraries (see below).
+
 ---
 
 ## Tools & Tech:
@@ -9,6 +11,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,lua,visualstudio,vscode,html" />
 </p>
 
+## For programming and game dev:
 - Visual Studio 2022
 - Visual Studio Code
 - C/C++ 
@@ -16,6 +19,8 @@
 - Pico-8
 - Picotron
 - Godot Engine
+
+## For art:
 - Clip Studio Paint (For digital art)
 - Aseprite (For pixelart)
 
