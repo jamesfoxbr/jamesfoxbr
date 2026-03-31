@@ -1,8 +1,8 @@
-🎨 **Digital Art & Pixel Art**: I make normal sized digital art in ClipStudio Paint and pixelart in Aseprite.
+**Digital Art & Pixel Art**: I make normal sized digital art in ClipStudio Paint and pixelart in Aseprite.
 
 ---
 
-## 🛠️ Tools & Tech:
+## Tools & Tech:
 <br>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Goals:
+## Goals:
 - Make and release a good game someday on Steam.
 
 ---
